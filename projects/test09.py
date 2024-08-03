@@ -44,3 +44,8 @@ name="Hi my name is sanjeewa deshappriya"
 namesplit=name.split()
 print(namesplit)
 print("_".join(namesplit))
+
+#isnumeric to find the valus is numeric or not 
+age="12"
+print(name.isnumeric())
+print(age.isnumeric())
